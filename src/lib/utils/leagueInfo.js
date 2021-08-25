@@ -8,7 +8,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 export const homepageText = `
   <p>The Perfection League, i own FrogStomper and HimesWard, created 8/24/2021. Go Tom Brady =]. John Taylor is a Toad.</p>
   <p>
-
+`;
 /*   STEP 3   */
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
